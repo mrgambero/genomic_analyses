@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arsM                 -            269 GONAKJIE_00277       -            247   2.6e-14   43.0   0.2   1   2   8.9e-15   9.8e-14   41.0   0.1    85   190    60   165    50   185 0.89 -
+arsM                 -            269 GONAKJIE_00277       -            247   2.6e-14   43.0   0.2   2   2     0.048      0.52   -0.7   0.0   199   231   195   226   177   236 0.69 -
+arsA                 -            346 GONAKJIE_02595       -            251   1.8e-11   33.3   0.3   1   2   5.7e-11   6.3e-10   28.2   0.0    20    70     8    58     1    79 0.85 -
+arsA                 -            346 GONAKJIE_02595       -            251   1.8e-11   33.3   0.3   2   2    0.0022     0.024    3.3   0.1   135   188   109   156    85   249 0.63 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Duncaniella_muris_103720/prokka/Duncaniella_muris_103720.faa
+# Target file:     /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm
+# Option settings: hmmscan -o hmmscanned_prokka/Duncaniella_muris_103720_anvio.stdout.txt --domtblout hmmscanned_prokka/Duncaniella_muris_103720_anvio.tbl.txt -E 0.0000000001 --cpu 4 /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm Duncaniella_muris_103720/prokka/Duncaniella_muris_103720.faa 
+# Current dir:     /Volumes/Gabri_Bio/Arsenic_project/Genomes/Genomes_from_NCBI
+# Date:            Sun Jan  9 23:07:28 2022
+# [ok]

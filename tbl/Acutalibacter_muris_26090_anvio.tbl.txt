@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arsM                 -            269 EDKOEALB_01040       -            240   1.8e-14   43.5   0.0   1   1   2.7e-15     3e-14   42.7   0.0    83   185    41   137    32   152 0.91 -
+arsA                 -            346 EDKOEALB_01042       -            161   1.7e-11   33.4   0.3   1   1   2.2e-12   2.4e-11   32.9   0.3    22    58    11    47     2    54 0.89 -
+arsM                 -            269 EDKOEALB_02140       -            219   3.3e-16   49.2   0.0   1   1   4.1e-17   4.6e-16   48.7   0.0   109   185    80   156    60   165 0.95 -
+arsA                 -            346 EDKOEALB_02436       -            137   7.5e-12   34.6   0.4   1   2   1.6e-12   1.8e-11   33.3   0.3    22    58    11    47     2    54 0.88 -
+arsA                 -            346 EDKOEALB_02436       -            137   7.5e-12   34.6   0.4   2   2     0.077      0.84   -1.8   0.0   286   305   110   129    97   134 0.66 -
+arsA                 -            346 EDKOEALB_02496       -            273   2.2e-11   33.0   0.8   1   2   5.3e-12   5.8e-11   31.6   0.3    23    58    12    47     2    54 0.89 -
+arsA                 -            346 EDKOEALB_02496       -            273   2.2e-11   33.0   0.8   2   2     0.039      0.43   -0.8   0.0   136   154   116   134    94   206 0.75 -
+arsC_thio            -            133 EDKOEALB_03553       -            285   4.2e-15   45.6   0.0   1   1   5.6e-16   6.2e-15   45.1   0.0     6   130     3   131     1   133 0.86 -
+arsM                 -            269 EDKOEALB_03565       -            202   1.1e-15   47.4   0.0   1   1   1.3e-16   1.4e-15   47.1   0.0    81   187    34   136    17   146 0.93 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Acutalibacter_muris_26090/prokka/Acutalibacter_muris_26090.faa
+# Target file:     /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm
+# Option settings: hmmscan -o hmmscanned_prokka/Acutalibacter_muris_26090_anvio.stdout.txt --domtblout hmmscanned_prokka/Acutalibacter_muris_26090_anvio.tbl.txt -E 0.0000000001 --cpu 4 /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm Acutalibacter_muris_26090/prokka/Acutalibacter_muris_26090.faa 
+# Current dir:     /Volumes/Gabri_Bio/Arsenic_project/Genomes/Genomes_from_NCBI
+# Date:            Sun Jan  9 22:41:01 2022
+# [ok]

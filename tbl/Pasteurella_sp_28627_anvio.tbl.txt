@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arxA                 -            831 PEHNMHKO_00482       -            826   7.5e-36  113.3   0.8   1   1   3.2e-34   1.2e-33  106.0   0.8     9   788     9   762     1   808 0.74 -
+aioA                 -            837 PEHNMHKO_00482       -            826   1.3e-20   62.2   1.2   1   3   2.9e-09   1.1e-08   22.8   0.1   106   319    86   312    33   319 0.68 -
+aioA                 -            837 PEHNMHKO_00482       -            826   1.3e-20   62.2   1.2   2   3   8.4e-09   3.1e-08   21.3   0.1   511   597   488   577   478   590 0.81 -
+aioA                 -            837 PEHNMHKO_00482       -            826   1.3e-20   62.2   1.2   3   3   1.3e-06   4.6e-06   14.1   0.0   730   782   706   755   643   760 0.82 -
+arrA                 -            846 PEHNMHKO_00482       -            826   2.4e-20   61.9   0.2   1   2   7.5e-15   2.8e-14   41.8   0.1     2   516     7   520     6   553 0.70 -
+arrA                 -            846 PEHNMHKO_00482       -            826   2.4e-20   61.9   0.2   2   2   2.3e-06   8.5e-06   13.7   0.0   704   788   677   755   601   763 0.73 -
+arsC                 -            123 PEHNMHKO_00522       -            114   1.5e-39  124.6   0.1   1   1     3e-40   1.6e-39  124.5   0.1     3   117     1   113     1   114 0.98 -
+arsC_glut            -            117 PEHNMHKO_00522       -            114   4.7e-34  106.9   0.0   1   1   9.2e-35   5.1e-34  106.8   0.0     3   115     1   112     1   114 0.97 -
+arsM                 -            269 PEHNMHKO_01077       -            251     2e-16   49.8   0.1   1   1   2.5e-17   2.7e-16   49.4   0.1    82   234    37   190    32   214 0.88 -
+arxA                 -            831 PEHNMHKO_01359       -            807   5.3e-15   44.3   1.0   1   3   9.5e-08     1e-06   16.9   0.1   215   325     6   111     2   133 0.87 -
+arxA                 -            831 PEHNMHKO_01359       -            807   5.3e-15   44.3   1.0   2   3    0.0001    0.0011    6.9   0.0   339   410   154   229   126   244 0.81 -
+arxA                 -            831 PEHNMHKO_01359       -            807   5.3e-15   44.3   1.0   3   3   5.2e-08   5.8e-07   17.7   0.1   733   830   703   804   689   805 0.64 -
+arsC_glut            -            117 PEHNMHKO_01398       -            116   7.3e-45  141.7   0.6   1   1   1.5e-45     8e-45  141.6   0.6     3   116     2   116     1   116 0.99 -
+arsC                 -            123 PEHNMHKO_01398       -            116   1.6e-32  101.9   0.3   1   1   3.1e-33   1.7e-32  101.8   0.3     3   117     2   116     1   116 0.98 -
+arxA                 -            831 PEHNMHKO_01704       -            827   1.7e-36  115.4   3.9   1   2   6.2e-34   2.3e-33  105.1   3.6     7   529     2   530     1   563 0.72 -
+arxA                 -            831 PEHNMHKO_01704       -            827   1.7e-36  115.4   3.9   2   2   0.00012   0.00044    8.2   0.0   737   767   744   774   725   825 0.89 -
+aioA                 -            837 PEHNMHKO_01704       -            827   3.2e-30   94.0   1.2   1   3   9.3e-18   3.4e-17   50.9   0.8    46   239    26   216    13   219 0.85 -
+aioA                 -            837 PEHNMHKO_01704       -            827   3.2e-30   94.0   1.2   2   3   1.4e-08     5e-08   20.6   0.0   304   575   258   557   233   597 0.66 -
+aioA                 -            837 PEHNMHKO_01704       -            827   3.2e-30   94.0   1.2   3   3   1.6e-07   5.9e-07   17.1   0.0   699   771   703   775   673   802 0.87 -
+arrA                 -            846 PEHNMHKO_01704       -            827   1.4e-27   85.8   0.6   1   2   1.7e-25   6.1e-25   77.1   0.9     1   387     1   394     1   408 0.78 -
+arrA                 -            846 PEHNMHKO_01704       -            827   1.4e-27   85.8   0.6   2   2   0.00048    0.0018    6.0   0.0   745   773   743   771   737   777 0.89 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Pasteurella_sp_28627/prokka/Pasteurella_sp_28627.faa
+# Target file:     /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm
+# Option settings: hmmscan -o hmmscanned_prokka/Pasteurella_sp_28627_anvio.stdout.txt --domtblout hmmscanned_prokka/Pasteurella_sp_28627_anvio.tbl.txt -E 0.0000000001 --cpu 4 /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm Pasteurella_sp_28627/prokka/Pasteurella_sp_28627.faa 
+# Current dir:     /Volumes/Gabri_Bio/Arsenic_project/Genomes/Assembled
+# Date:            Sun Jan  9 16:06:26 2022
+# [ok]
