@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arsM                 -            269 DLDNGFLA_00206       -            388   2.3e-11   33.3   0.0   1   2      0.11       1.2   -1.8   0.0   114   147   104   137   100   148 0.76 -
+arsM                 -            269 DLDNGFLA_00206       -            388   2.3e-11   33.3   0.0   2   2   6.4e-12     7e-11   31.7   0.0    80   188   171   276   168   293 0.91 -
+arsC                 -            123 DLDNGFLA_00778       -            153     2e-43  137.1   1.0   1   1   4.4e-44   2.4e-43  136.8   1.0     3   122     1   119     1   120 0.98 -
+arsC_glut            -            117 DLDNGFLA_00778       -            153   9.8e-17   51.0   0.2   1   1   2.2e-17   1.2e-16   50.7   0.2     3   116     1   114     1   115 0.94 -
+arsA                 -            346 DLDNGFLA_01175       -            256   4.3e-12   35.4   1.9   1   1   7.2e-12   7.9e-11   31.2   1.9    22    61    10    49     1   223 0.84 -
+arsC                 -            123 DLDNGFLA_01623       -            114   6.1e-28   87.1   0.1   1   1   1.2e-28   6.5e-28   87.0   0.1     8   115     5   113     1   114 0.96 -
+arsC_glut            -            117 DLDNGFLA_01623       -            114   6.5e-14   41.9   0.0   1   1   1.3e-14   6.9e-14   41.8   0.0     9   112     6   111     1   114 0.93 -
+arsM                 -            269 DLDNGFLA_01809       -            244   8.6e-11   31.4   0.0   1   1     1e-11   1.1e-10   31.0   0.0    85   188    44   142     2   147 0.85 -
+arsC_thio            -            133 DLDNGFLA_02015       -            129   8.1e-23   70.6   0.1   1   1   8.1e-24   8.9e-23   70.4   0.1     3   130     2   127     1   129 0.90 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Longibaculum_muris_29487/prokka/Longibaculum_muris_29487.faa
+# Target file:     /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm
+# Option settings: hmmscan -o hmmscanned_prokka/Longibaculum_muris_29487_anvio.stdout.txt --domtblout hmmscanned_prokka/Longibaculum_muris_29487_anvio.tbl.txt -E 0.0000000001 --cpu 4 /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm Longibaculum_muris_29487/prokka/Longibaculum_muris_29487.faa 
+# Current dir:     /Volumes/Gabri_Bio/Arsenic_project/Genomes/Genomes_from_NCBI
+# Date:            Sun Jan  9 23:25:13 2022
+# [ok]

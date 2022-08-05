@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arsM                 -            269 BPPCBPFJ_01914       -            271     1e-12   37.7   0.0   1   1   1.1e-13   1.3e-12   37.4   0.0    80   208    52   180    29   247 0.79 -
+arsC_thio            -            133 BPPCBPFJ_02074       -            142   1.8e-36  114.7   0.0   1   1     2e-37   2.2e-36  114.5   0.0     6   129     3   133     1   136 0.92 -
+arsA                 -            346 BPPCBPFJ_03628       -            161   9.1e-12   34.3   1.8   1   1   6.9e-12   7.6e-11   31.2   1.8    23    67    11    55     3   135 0.82 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bacteroides_sartorii_21941/prokka/Bacteroides_sartorii_21941.faa
+# Target file:     /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm
+# Option settings: hmmscan -o hmmscanned_prokka/Bacteroides_sartorii_21941_anvio.stdout.txt --domtblout hmmscanned_prokka/Bacteroides_sartorii_21941_anvio.tbl.txt -E 0.0000000001 --cpu 4 /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm Bacteroides_sartorii_21941/prokka/Bacteroides_sartorii_21941.faa 
+# Current dir:     /Volumes/Gabri_Bio/Arsenic_project/Genomes/Genomes_from_NCBI
+# Date:            Sun Jan  9 22:52:34 2022
+# [ok]

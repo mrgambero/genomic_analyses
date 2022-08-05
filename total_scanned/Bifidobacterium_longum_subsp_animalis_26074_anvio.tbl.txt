@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arsC_thio            -            133 JENJMGFH_00132       -            178   3.9e-11   32.8   0.0   1   1   5.1e-12   5.6e-11   32.3   0.0     5    84     9    98     6   123 0.76 -
+arsC                 -            123 JENJMGFH_00276       -             87   2.3e-11   33.6   0.0   1   2   5.2e-11   5.7e-10   29.0   0.0     2    46     1    45     1    47 0.95 -
+arsC                 -            123 JENJMGFH_00276       -             87   2.3e-11   33.6   0.0   2   2    0.0072     0.079    2.8   0.0    96   119    52    75    49    78 0.88 -
+arsA                 -            346 JENJMGFH_00619       -            324   1.1e-11   33.9   0.2   1   2   1.8e-10   1.9e-09   26.6   0.1    15    63    55   103    41   115 0.84 -
+arsA                 -            346 JENJMGFH_00619       -            324   1.1e-11   33.9   0.2   2   2    0.0006    0.0066    5.1   0.0   134   154   165   185   157   203 0.89 -
+arsC_thio            -            133 JENJMGFH_00875       -            188   1.1e-13   41.0   0.0   1   2   1.1e-11   1.3e-10   31.1   0.0     6   108     3   109     1   127 0.86 -
+arsC_thio            -            133 JENJMGFH_00875       -            188   1.1e-13   41.0   0.0   2   2   0.00015    0.0016    8.1   0.0   103   130   149   176   134   179 0.89 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Bifidobacterium_longum_subsp_animalis_26074/prokka/Bifidobacterium_longum_subsp_animalis_26074.faa
+# Target file:     /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm
+# Option settings: hmmscan -o hmmscanned_prokka/Bifidobacterium_longum_subsp_animalis_26074_anvio.stdout.txt --domtblout hmmscanned_prokka/Bifidobacterium_longum_subsp_animalis_26074_anvio.tbl.txt -E 0.0000000001 --cpu 4 /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm Bifidobacterium_longum_subsp_animalis_26074/prokka/Bifidobacterium_longum_subsp_animalis_26074.faa 
+# Current dir:     /Volumes/Gabri_Bio/Arsenic_project/Genomes/Genomes_from_NCBI
+# Date:            Sun Jan  9 22:53:45 2022
+# [ok]

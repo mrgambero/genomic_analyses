@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arsM                 -            269 FIPFGJCE_01337       -            246   5.5e-12   35.3   0.0   1   2     9e-13   9.9e-12   34.5   0.0    77   197    50   172    45   184 0.86 -
+arsM                 -            269 FIPFGJCE_01337       -            246   5.5e-12   35.3   0.0   2   2      0.45         5   -3.9   0.0   220   232   215   227   201   230 0.69 -
+arsA                 -            346 FIPFGJCE_01516       -            369   1.3e-11   33.7   0.0   1   2     1e-11   1.1e-10   30.7   0.0    18    52   102   136    85   159 0.83 -
+arsA                 -            346 FIPFGJCE_01516       -            369   1.3e-11   33.7   0.0   2   2     0.014      0.16    0.6   0.0   133   161   197   226   192   262 0.74 -
+arsC_thio            -            133 FIPFGJCE_02043       -            144     4e-36  113.7   0.0   1   1   4.1e-37   4.5e-36  113.5   0.0     6   130     3   134     1   137 0.91 -
+arsA                 -            346 FIPFGJCE_02074       -            251   1.2e-11   33.9   0.9   1   2     2e-11   2.2e-10   29.7   0.1    20    70     8    58     1    66 0.89 -
+arsA                 -            346 FIPFGJCE_02074       -            251   1.2e-11   33.9   0.9   2   2    0.0032     0.035    2.8   0.1   134   166   108   135    85   221 0.63 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Prevotella_sp_103722/prokka/Prevotella_sp_103722.faa
+# Target file:     /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm
+# Option settings: hmmscan -o hmmscanned_prokka/Prevotella_sp_103722_anvio.stdout.txt --domtblout hmmscanned_prokka/Prevotella_sp_103722_anvio.tbl.txt -E 0.0000000001 --cpu 4 /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm Prevotella_sp_103722/prokka/Prevotella_sp_103722.faa 
+# Current dir:     /Volumes/Gabri_Bio/Arsenic_project/Genomes/Genomes_from_NCBI
+# Date:            Sun Jan  9 23:42:01 2022
+# [ok]

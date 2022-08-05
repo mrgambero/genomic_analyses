@@ -1,0 +1,41 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arsM                 -            269 CHHEHNPN_01007       -            203   6.2e-12   35.1   0.0   1   1     7e-13   7.7e-12   34.8   0.0    85   190    45   145    35   170 0.90 -
+arsA                 -            346 CHHEHNPN_01021       -            255   9.3e-11   31.0   1.9   1   1   3.2e-11   3.5e-10   29.1   1.9    23   247    11   222     3   233 0.64 -
+arsA                 -            346 CHHEHNPN_01200       -            254   1.1e-11   34.0   0.1   1   2   1.1e-11   1.3e-10   30.5   0.0    18    69     3    56     1    89 0.84 -
+arsA                 -            346 CHHEHNPN_01200       -            254   1.1e-11   34.0   0.1   2   2    0.0069     0.076    1.6   0.0   233   275   159   201   116   223 0.80 -
+arsM                 -            269 CHHEHNPN_01409       -            847   5.9e-27   84.4   0.0   1   2   1.2e-11   1.3e-10   30.8   0.0    86   186    87   183    77   199 0.87 -
+arsM                 -            269 CHHEHNPN_01409       -            847   5.9e-27   84.4   0.0   2   2   6.7e-18   7.4e-17   51.3   0.0    87   185   658   752   653   779 0.86 -
+arsA                 -            346 CHHEHNPN_01697       -            261   1.6e-11   33.5   1.5   1   1   5.2e-12   5.7e-11   31.6   1.5    20   154     8   133     2   244 0.83 -
+arsC                 -            123 CHHEHNPN_02009       -            116   1.2e-30   95.8   0.1   1   1   2.7e-31   1.5e-30   95.5   0.1     5   115     2   113     1   115 0.96 -
+arsC_glut            -            117 CHHEHNPN_02009       -            116   7.5e-19   57.9   0.0   1   1   1.6e-19   8.6e-19   57.7   0.0     7   112     4   111     1   115 0.92 -
+arsA                 -            346 CHHEHNPN_02408       -            263   4.9e-11   31.9   0.1   1   1     8e-12   8.7e-11   31.0   0.0    14   155     4   138     1   214 0.80 -
+arsA                 -            346 CHHEHNPN_03119       -            262   9.8e-13   37.5   3.2   1   2   6.6e-11   7.3e-10   28.0   3.3    17    52     5    40     2    49 0.95 -
+arsA                 -            346 CHHEHNPN_03119       -            262   9.8e-13   37.5   3.2   2   2   0.00028    0.0031    6.2   0.0   233   271   138   176    88   186 0.87 -
+arxA                 -            831 CHHEHNPN_03351       -            144   3.9e-15   44.8   0.3   1   1   1.3e-15   4.6e-15   44.5   0.3    58   190     7   139     3   143 0.82 -
+aioA                 -            837 CHHEHNPN_03351       -            144   1.9e-13   38.6   0.2   1   1   5.7e-14   2.1e-13   38.4   0.2    59   194     5   138     1   143 0.87 -
+arrA                 -            846 CHHEHNPN_03351       -            144   3.1e-11   31.7   0.0   1   1   9.4e-12   3.4e-11   31.6   0.0    46   180     6   142     2   144 0.82 -
+aioA                 -            837 CHHEHNPN_03352       -            566   2.1e-27   84.7   0.2   1   2     3e-14   1.1e-13   39.3   0.0   291   587    49   337    19   349 0.78 -
+aioA                 -            837 CHHEHNPN_03352       -            566   2.1e-27   84.7   0.2   2   2   4.5e-15   1.6e-14   42.1   0.0   639   824   361   540   355   547 0.78 -
+arxA                 -            831 CHHEHNPN_03352       -            566   4.1e-22   67.9   0.2   1   2   9.7e-10   3.6e-09   25.1   0.0   247   314    31    98     7   103 0.92 -
+arxA                 -            831 CHHEHNPN_03352       -            566   4.1e-22   67.9   0.2   2   2   1.8e-14   6.5e-14   40.7   0.0   342   588   103   351    98   367 0.71 -
+arrA                 -            846 CHHEHNPN_03352       -            566   9.5e-15   43.3   0.6   1   4   6.9e-09   2.5e-08   22.1   0.0   229   297    29    97     7   100 0.88 -
+arrA                 -            846 CHHEHNPN_03352       -            566   9.5e-15   43.3   0.6   2   4   9.6e-05   0.00035    8.4   0.0   323   361   100   138    89   168 0.80 -
+arrA                 -            846 CHHEHNPN_03352       -            566   9.5e-15   43.3   0.6   3   4    0.0015    0.0054    4.4   0.0   476   515   254   293   235   316 0.88 -
+arrA                 -            846 CHHEHNPN_03352       -            566   9.5e-15   43.3   0.6   4   4    0.0012    0.0045    4.7   0.0   746   789   455   498   447   515 0.87 -
+arsM                 -            269 CHHEHNPN_03390       -            172   2.1e-14   43.2   0.0   1   1   2.4e-15   2.6e-14   42.9   0.0    79   188    20   129    16   145 0.89 -
+arsM                 -            269 CHHEHNPN_03463       -            243   3.2e-11   32.8   0.0   1   1   3.8e-12   4.2e-11   32.4   0.0    85   188    44   142     2   147 0.87 -
+arsA                 -            346 CHHEHNPN_03855       -            275   3.4e-11   32.4   0.4   1   3   8.4e-12   9.2e-11   31.0   0.2    22    58    12    48     2    70 0.87 -
+arsA                 -            346 CHHEHNPN_03855       -            275   3.4e-11   32.4   0.4   2   3      0.26       2.8   -3.5   0.0   137   154   118   135   103   137 0.61 -
+arsA                 -            346 CHHEHNPN_03855       -            275   3.4e-11   32.4   0.4   3   3      0.13       1.4   -2.6   0.0   171   212   168   209   163   235 0.62 -
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      Blautia_caecimuris_29492/prokka/Blautia_caecimuris_29492.faa
+# Target file:     /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm
+# Option settings: hmmscan -o hmmscanned_prokka/Blautia_caecimuris_29492_anvio.stdout.txt --domtblout hmmscanned_prokka/Blautia_caecimuris_29492_anvio.tbl.txt -E 0.0000000001 --cpu 4 /Volumes/Gabri_Bio/Arsenic_project/ars/genes.hmm Blautia_caecimuris_29492/prokka/Blautia_caecimuris_29492.faa 
+# Current dir:     /Volumes/Gabri_Bio/Arsenic_project/Genomes/Assembled
+# Date:            Sun Jan  9 13:40:46 2022
+# [ok]
