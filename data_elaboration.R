@@ -19,7 +19,8 @@ library("gggenes")#For arrowplots
 ###the code Performs the following things:
 ###1)Reconstruct the whole taxonomy base on species names
 ###2)Elaborate the hmm results from Dunivin et al 2019
-###3)
+###3)Elaborate prokka and Kofamscan results
+###4)Combine and visualize results
 #### ### ### ### ### ### ### ### ### ### ### ### ##
 
 #Import the names of the isolates ---------------------------------------------------------------------------------------------------
